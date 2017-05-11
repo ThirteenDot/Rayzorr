@@ -1,0 +1,2 @@
+# Rayzorr
+A personal blog
